@@ -1,6 +1,4 @@
-\*\*hello
-
-#команды GIT
+#Сommand line hint
 
 \*\* Начало работы:
 
