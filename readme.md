@@ -1,5 +1,7 @@
 #Сommand line hint
 
-\*\* Начало работы:
+##start command
 
 1. git init-
+   creat reposotory
+2.
