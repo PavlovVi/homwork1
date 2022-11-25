@@ -1,6 +1,4 @@
-#Сommand line hint
-
-##start command
+# Подсказка по командной строке
 
 1. git init-
    creat reposotory
